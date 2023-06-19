@@ -1,4 +1,4 @@
-![MasterHead](https://www.codemotion.com/magazine/wp-content/uploads/2020/05/Corso-di-Web-Developer-Full-Stack-896x504.jpg)
+![MasterHead]([https://www.codemotion.com/magazine/wp-content/uploads/2020/05/Corso-di-Web-Developer-Full-Stack-896x504.jpg](https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif))
 
 <h1 align="center">Hi 👋, I'm Abhishek Jariwala</h1>
 <h3 align="center">A passionate full stack web developer from India</h3>
