@@ -1,4 +1,4 @@
-![MasterHead](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)
+![MasterHead](https://e1.pxfuel.com/desktop-wallpaper/571/625/desktop-wallpaper-coding-motivation-programming-quotes.jpg)
 
 <h1 align="center">Hi 👋, I'm Abhishek Jariwala</h1>
 <h3 align="center">A passionate full stack web developer from India</h3>
