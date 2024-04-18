@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **React Js**
 
-- 👨‍💻 All of my projects are available at [https://abhishekjariwala.netlify.app/](https://abhishekjariwala.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://abhishekjariwala.vercel.app/](https://abhishekjariwala.vercel.app/)
 
 - 💬 Ask me about **React js, Javascript, Nodejs, MongoDB**
 
