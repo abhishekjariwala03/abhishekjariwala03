@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **TutorNet Project**
 
-- 🌱 I’m currently learning **Typescript**
+- 🌱 I’m currently learning **.net core**
 
 - 👨‍💻 All of my projects are available at [https://abhishekjariwala.vercel.app/](https://abhishekjariwala.vercel.app/)
 
