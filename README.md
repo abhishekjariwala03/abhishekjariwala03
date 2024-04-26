@@ -28,9 +28,18 @@
 </div>
 <br/>
 <br/>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishekjariwala03&show_icons=true&locale=en&layout=compact" alt="abhishekjariwala03" /></p>
+<div align="center">
+  <div style="display: flex; justify-content: space-between;">
+    <div style="flex: 1;">
+      <img align="right" src="https://github-readme-stats.vercel.app/api?username=abhishekjariwala03&show_icons=true&locale=en" alt="abhishekjariwala03" />
+    </div>
+    <div style="flex: 1;">
+      <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekjariwala03&" alt="abhishekjariwala03" />
+    </div>
+  </div>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhishekjariwala03&show_icons=true&locale=en" alt="abhishekjariwala03" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekjariwala03&" alt="abhishekjariwala03" /></p>
+<div align="center" style="margin-top: 50px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishekjariwala03&show_icons=true&locale=en&layout=compact" alt="abhishekjariwala03" />
+</div>
 
