@@ -28,18 +28,15 @@
 </div>
 <br/>
 <br/>
-<div align="center">
-  <div style="display: flex; justify-content: space-between;">
-    <div style="flex: 1;">
-      <img align="right" src="https://github-readme-stats.vercel.app/api?username=abhishekjariwala03&show_icons=true&locale=en" alt="abhishekjariwala03" />
-    </div>
-    <div style="flex: 1;">
-      <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekjariwala03&" alt="abhishekjariwala03" />
-    </div>
-  </div>
-</div>
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=abhishekjariwala&show_icons=true&theme=dark&locale=en" alt="abhishek-jariwala" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishekjariwala03&show_icons=true&theme=dark&locale=en&layout=compact" alt="abhishek-jariwala" /></td>
+  </tr>
+</table>
 
-<div align="center" style="margin-top: 50px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishekjariwala03&show_icons=true&locale=en&layout=compact" alt="abhishekjariwala03" />
-</div>
+<div align="center">
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekjariwala03&theme=dark" alt="abhishek-jariwala" /></p>
+  </div>
+
 
